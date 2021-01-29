@@ -96,6 +96,7 @@ ProgressSteps.propTypes = {
   activeStep: PropTypes.number,
   topOffset: PropTypes.number,
   marginBottom: PropTypes.number,
+  backgroundColor: PropTypes.object
 };
 
 ProgressSteps.defaultProps = {
